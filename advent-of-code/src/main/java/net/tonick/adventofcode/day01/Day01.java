@@ -5,7 +5,7 @@
  * Any copy, modification and distribution of the software and of the accompanying 
  * documentation require prior written permission/consent of the copyright holder.
  */
-package net.tonick.adventofcode;
+package net.tonick.adventofcode.day01;
 
 import java.util.Arrays;
 import java.util.List;
