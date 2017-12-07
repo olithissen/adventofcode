@@ -15,8 +15,6 @@ import java.util.List;
 /**
  * JavaDoc für Day05
  *
- * @author (v096644)
- *
  */
 public class Day05 {
     /**

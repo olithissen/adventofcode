@@ -13,8 +13,6 @@ import java.util.List;
 /**
  * JavaDoc für Day01
  *
- * @author (v096644)
- *
  */
 public class Day01 {
     /**
